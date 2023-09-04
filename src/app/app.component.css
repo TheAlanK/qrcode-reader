@@ -1,0 +1,12 @@
+video {
+  width: 100%;
+  max-width: 200px; /* Reduced to 300px as an example */
+  height: auto;
+}
+
+canvas {
+  width: 100%;
+  max-width: 200px; /* Reduced to 300px as an example */
+  height: auto;
+  border: 1px solid red;
+}
